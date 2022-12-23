@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRIZMA MEGA STORE\\source\\repos\\project1\\project1\\project1.csproj",
-      "projectName": "project1",
-      "projectPath": "C:\\Users\\CRIZMA MEGA STORE\\source\\repos\\project1\\project1\\project1.csproj",
+      "projectUniqueName": "C:\\Users\\CRIZMA MEGA STORE\\source\\repos\\project 2\\project 2\\project 2.csproj",
+      "projectName": "project 2",
+      "projectPath": "C:\\Users\\CRIZMA MEGA STORE\\source\\repos\\project 2\\project 2\\project 2.csproj",
       "packagesPath": "C:\\Users\\CRIZMA MEGA STORE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CRIZMA MEGA STORE\\source\\repos\\project1\\project1\\obj\\",
+      "outputPath": "C:\\Users\\CRIZMA MEGA STORE\\source\\repos\\project 2\\project 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CRIZMA MEGA STORE\\AppData\\Roaming\\NuGet\\NuGet.Config",
